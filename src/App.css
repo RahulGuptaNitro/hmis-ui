@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.MuiPaper-root{
+  width:90% !important;
+}
+
+.MuiFormGroup-root{
+  margin: 20px;
+}
+
+.MuiTypography-root{
+  margin: 15px !important;
+  font-weight: 500 !important;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
